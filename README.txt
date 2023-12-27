@@ -4,4 +4,4 @@ This simple java project allows users to create, store, and retrieve all of your
 
 
 TODO:
-- Have a key to the password manager
+- Make file management persistent
