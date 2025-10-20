@@ -1,7 +1,3 @@
 This simple java project allows users to create, store, and retrieve all of your passwords so that you don't forget them!
 
-- Divyesh Thirukonda
-
-
-TODO:
-- Make file management persistent
+Update: 10/20/25 - Look at what baby me was up to 😂😂
